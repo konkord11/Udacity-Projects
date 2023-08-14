@@ -6,5 +6,5 @@ classifying images, and evaluating the performance of different models.
 
 # PROGRAMMER: Karam Salah Elradie
 # DATE CREATED: 15/06/2023
-# Submited for: UDACITY
-# Nanodegree title: AI Programming with Python
+# SUBMITTED FOR: UDACITY
+# NANODEGREE NAME: AI Programming with Python
